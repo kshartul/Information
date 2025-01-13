@@ -78,7 +78,7 @@ This command prints CPU time breakdowns per CPU, which can be used to check for 
 
 5. pidstat 1
 
-Pidstat is a little like top’s per-process summary, but prints a rolling summary instead of clearing the screen. This can be useful for watching patterns over time, and also recording what you saw (copy-n-paste) into a record of your investigation.
+Pidstat is a little like topâ€™s per-process summary, but prints a rolling summary instead of clearing the screen. This can be useful for watching patterns over time, and also recording what you saw (copy-n-paste) into a record of your investigation.
 
 
 6. iostat -xz 1
@@ -100,6 +100,9 @@ This is a summarized view of some key TCP metrics
 10. top
 
 The top command includes many of the metrics we checked earlier. It can be handy to run it to see if anything looks wildly different from the earlier commands, which would indicate that load is variable.
+
+
+![image](https://github.com/user-attachments/assets/de189eef-5759-4152-ba39-32b7b40a8999)
 
 
 
